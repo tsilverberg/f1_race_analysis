@@ -67,12 +67,6 @@ Store your `kaggle.json` file in:
 f1_race_analysis/.kaggle/kaggle.json
 ```
 
-Or export the path:
-
-```bash
-export KAGGLE_CONFIG_DIR=$(pwd)/.kaggle
-```
-
 ---
 
 ## 🚀 How to Run
